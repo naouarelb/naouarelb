@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Naouar, a junior Data Engineer / Analyst passionate about building data solutions that turn raw information into meaningful insights.<br><br>🔭 I’m working as a data engineer, designing and maintaining ETL pipelines and cloud-based data platforms (AWS).<br><br>📚 I'm currently learning advanced data modeling, dbt, and Azure services to expand my cloud expertise.<br><br>⚡ In my free time I enjoy exploring new tech stacks, practicing SQL challenges, and sharing knowledge with the data community.</p>
+<p align="left">I'm Naouar, a Data Engineer / Analyst passionate about building data solutions that turn raw information into meaningful insights.<br><br>🔭 I’m working as a data engineer, designing and maintaining ETL pipelines and cloud-based data platforms (AWS).<br><br>📚 I'm currently learning advanced data modeling, dbt, and Azure services to expand my cloud expertise.<br><br>⚡ In my free time I enjoy exploring new tech stacks, practicing SQL challenges, and sharing knowledge with the data community.</p>
 
 ###
 
